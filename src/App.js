@@ -1,10 +1,12 @@
 
-import './App.css';
+//components
+import Button from './components/Button';
 
 function App() {
   return (
-    <div className="App">
+    <div >
       Hi Pomodoro
+      <Button />
     </div>
   );
 }
